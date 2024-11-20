@@ -77,7 +77,7 @@ setup(
     author='Brian Kelley',
     author_email='fustigator+descriptastorus@gmail.com',
     url='https://github/bp-kelley/descriptastorus',
-    install_requires=['pandas_flavor', 'rdkit', 'scipy', 'numpy'],
+    install_requires=['pandas_flavor', 'scipy', 'numpy'],
     test_suite='nose.collector',
     tests_require=['nose', 'pandas_flavor'],
     include_package_data=True,
